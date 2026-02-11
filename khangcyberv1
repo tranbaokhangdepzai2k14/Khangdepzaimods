@@ -5,7 +5,6 @@ local farming = false
 local nangtoc = false
 
 local QuestData = {
-    -- SEA 1
     {Min=1,Max=9,Q="BanditQuest1",L=1,Mob="Bandit",QPos=Vector3.new(1060,16,1547),MPos=Vector3.new(1150,17,1610)},
     {Min=10,Max=14,Q="MonkeyQuest",L=1,Mob="Monkey",QPos=Vector3.new(-1602,37,153),MPos=Vector3.new(-1468,40,110)},
     {Min=15,Max=29,Q="MonkeyQuest",L=2,Mob="Gorilla",QPos=Vector3.new(-1602,37,153),MPos=Vector3.new(-1320,39,-530)},
